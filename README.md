@@ -64,10 +64,10 @@ I wrote 8 queries in PostgreSQL to answer specific business questions. The full 
 Built in Power BI with two pages — an executive overview and a deeper engagement and revenue breakdown.
 
 ### Page 1 — Executive Overview
-![Dashboard Page 1](dashboard/dashboard_page1.png)
+![Dashboard Page 1](dashboard/dashboard_page1.PNG)
 
 ### Page 2 — Engagement & Revenue
-![Dashboard Page 2](dashboard/dashboard_page2.png)
+![Dashboard Page 2](dashboard/dashboard_page2.PNG)
 
 ---
 
