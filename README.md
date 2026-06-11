@@ -5,6 +5,22 @@
 
 ---
 
+## Executive Summary
+
+NovaMind AI was experiencing user churn despite strong acquisition growth.
+
+Using PostgreSQL, Excel, and Power BI, I analyzed 5,630 users to identify churn drivers, activation bottlenecks, and revenue-risk segments.
+
+### Key Results
+
+- Identified 16.84% churn rate
+- Found 41.86% of churn occurs within first 3 months
+- Determined City Tier 1 accounts for 56% of churned users
+- Uncovered a satisfaction-retention gap indicating weak habit formation
+- Developed onboarding and activation strategies to improve retention
+
+---
+
 ## What This Project Is About
 
 NovaMind AI is a fictional B2B SaaS company selling AI productivity tools to small businesses. I built this project around a problem that's very common in early-stage SaaS — the numbers look fine on the surface (users are signing up) but something is quietly wrong underneath (they're not staying).
